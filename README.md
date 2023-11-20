@@ -1,6 +1,5 @@
-![file](https://github.com/madhukalamata/Predicting_Parkinsons_Disease-Machine_Learning/assets/123944012/a6258ccd-2986-4bb0-9879-f11fb7b0533f)
+![file](https://github.com/madhukalamata/Predicting_Parkinsons_Disease-Machine_Learning/assets/123944012/a6258ccd-2986-4bb0-9879-f11fb7b0533f)   ![image](https://github.com/madhukalamata/Predicting_Parkinsons_Disease-Machine_Learning/assets/123944012/94c7f970-9950-411c-b837-cec0ad427b45)
 ![file(1)](https://github.com/madhukalamata/Predicting_Parkinsons_Disease-Machine_Learning/assets/123944012/209581b0-d6d1-4509-9ccb-628cb799f766)
-![image](https://github.com/madhukalamata/Predicting_Parkinsons_Disease-Machine_Learning/assets/123944012/94c7f970-9950-411c-b837-cec0ad427b45)
 ![image](https://github.com/madhukalamata/Predicting_Parkinsons_Disease-Machine_Learning/assets/123944012/68a66b25-fd26-4129-b5d5-10189411f717)
 
 
